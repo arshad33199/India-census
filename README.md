@@ -18,5 +18,31 @@ The word 'census' is derived from the Latin word 'censere' meaning 'to assess or
 The Census of India has been conducted 15 times, As of 2011. It has been conducted every 10 years, beginning in 1871.
 
 
+## Problems Solve
 
+1)Calculate total number of population state wise.
+
+here is the graph
+
+![newplot (34)](https://github.com/arshad33199/India-census/assets/142779412/a744d2d2-8913-4bd1-b10c-057d20f39949)
+
+
+
+
+2)Calculate religious population state wise.
+
+3)calculate Male and Female population state wise.
+
+4)Maharastra dictrict populatioin.
+
+here is the graph
+
+
+![newplot (35)](https://github.com/arshad33199/India-census/assets/142779412/ee85800a-0b3f-4fbf-aeb5-d35e1e24b78a)
+
+
+5)calculate top 10 Graduated population in a State.
+
+
+![newplot (36)](https://github.com/arshad33199/India-census/assets/142779412/256a86d6-22b5-44f9-84de-5c3f794178d8)
 
